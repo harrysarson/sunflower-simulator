@@ -1,0 +1,8 @@
+commands.tex
+help.h
+mversion.h
+opstr-hitachi-sh.h
+opstr-riscv.h
+sf
+sf.output
+sf.tab.c

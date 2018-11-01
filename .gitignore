@@ -1,6 +1,7 @@
-conf/setup.conf
 simlog.node*
 sunflower.out
+outfile.log
+log.log
 
 #
 #	Binaries
@@ -21,3 +22,8 @@ tools/superH
 #	Downloaded sources
 #
 tools/source/*
+
+#
+#   Generated libary archives
+#
+tools/tools-lib/*/*.a
